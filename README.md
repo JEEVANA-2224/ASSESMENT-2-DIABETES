@@ -195,6 +195,3 @@ F1-score
 Support
 print(classification_report(y_test, y_pred))
 
-# Conclusion
-
-This project successfully demonstrates the implementation of an Artificial Neural Network (ANN) for diabetes prediction using TensorFlow and Keras. The model was trained on medical diagnostic data and achieved good classification performance. This project provides a strong foundation for understanding deep learning in healthcare prediction systems.
